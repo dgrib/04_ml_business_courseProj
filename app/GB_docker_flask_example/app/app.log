@@ -1,0 +1,14 @@
+[2022-Jan-08 17:32:42] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:33:24] Data: Age=[63], Sex=['F'], ChestPainType=['ATA']
+[2022-Jan-08 17:38:16] Data: Age=[63], Sex=['F'], ChestPainType=['ATA']
+[2022-Jan-08 17:43:20] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:43:51] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:49:34] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:51:13] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:51:24] Data: Age=[63], Sex=['F'], ChestPainType=['ATA']
+[2022-Jan-08 17:51:40] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:55:31] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:55:49] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 17:56:28] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 18:00:26] Data: Age=63, Sex=F, ChestPainType=ATA
+[2022-Jan-08 18:04:47] Data: Age=63, Sex=F, ChestPainType=ATA
