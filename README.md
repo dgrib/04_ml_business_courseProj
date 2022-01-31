@@ -29,7 +29,7 @@ API: flask
 ### Клонируем репозиторий и создаем образ
 ```
 $ git clone https://github.com/dgrib/04_ml_business_courseProj.git
-$ cd GB_docker_flask_example
+$ cd 04_ml_business_courseProj/app/GB_docker_flask_example
 $ docker build -t my_super_docker .
 ```
 
